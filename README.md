@@ -4,3 +4,4 @@ If you want to play it please pip install pygame.
 
 Have fun :)
 
+<img src="Game.png">
